@@ -9,6 +9,7 @@
 - [intro](https://guides.github.com/activities/hello-world/)
 - [markdown basics](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [github pages](https://pages.github.com/)
+- [git - the simple guide by Roger Dudler](http://rogerdudler.github.io/git-guide/)
 
 ## discplined uproach to becoming a Software engineer
  - [John Washams guide](https://github.com/jwasham/coding-interview-university)
