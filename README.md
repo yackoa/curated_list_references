@@ -1,5 +1,5 @@
 # This is a list of stuff for learning
-## Data Science
+## Machine Learning
 - [data school](https://www.youtube.com/user/dataschool)
 
 ## DSA with python
