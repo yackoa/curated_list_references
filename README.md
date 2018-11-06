@@ -9,5 +9,5 @@
 - [intro](https://guides.github.com/activities/hello-world/)
 - [markdown basics](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
-## poormans way to big 4
+## discplined uproach to becoming a Software engineer
  - [John Washams guide](https://github.com/jwasham/coding-interview-university)
